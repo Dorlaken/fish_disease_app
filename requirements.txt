@@ -1,4 +1,7 @@
-streamlit
-ultralytics
-pillow
-opencv-python
+-streamlit
+-ultralytics
+-pillow
++streamlit
++ultralytics
++pillow
++opencv-python-headless
